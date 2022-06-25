@@ -1,4 +1,4 @@
-# AeonLabs-PCB-Shields-AC220DC5V0
+# AeonLabs PCB Shields AC220DC5V0
  This repo contains a pcb design for a AC220V 1A to DC 5V0 converter.
 
 
