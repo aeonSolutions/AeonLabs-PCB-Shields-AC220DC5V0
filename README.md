@@ -1,5 +1,5 @@
-# AeonLabs PCB Shields AC220DC5V0
- This repo contains a pcb design for a AC220V 1A to DC 5V0 converter.
+# AeonLabs PCB Shields AC 220V to DC 5.0V
+ This repo contains a pcb design for a AC220V 1A to DC 5V0 converter. Suitable as a add-on design for any other KiCad project.
 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
