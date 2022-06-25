@@ -42,7 +42,10 @@ ________________________________________________________________________________
 - Resistor SMD 1206 330R x3 : https://s.click.aliexpress.com/e/_A7OXrR
 - [EE10-A1 switching power supply transformer 220V to 5-12V](https://s.click.aliexpress.com/e/_DDHkwsf)
 - [4.7uF 400V Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DlkOyWT)
-
+- [390uF 6.3V Solid Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DkZ4zmf)
+- [SS36 rectifier Diode](https://s.click.aliexpress.com/e/_DFlMjfv)
+- [MB10F 4 Diode Bridge Rectifier](https://s.click.aliexpress.com/e/_DcfTow3)
+- [HT2812H AC DC 5W charging](https://s.click.aliexpress.com/e/_Dk6dCGB)
 - LED RGB x1: https://s.click.aliexpress.com/e/_AccXHT
 
 
