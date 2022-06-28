@@ -38,8 +38,8 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
-- [Capacitor 2.2uF SMD 1206](https://s.click.aliexpress.com/e/_AVdmzr)
-- [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
+- [Capacitor 2.2uF SMD](https://s.click.aliexpress.com/e/_AVdmzr)
+- [Resistor SMD ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [EE10-A1 switching power supply transformer 220V to 5-12V](https://s.click.aliexpress.com/e/_DDHkwsf)
 - [4.7uF 400V Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DlkOyWT)
 - [390uF 6.3V Solid Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DkZ4zmf)
