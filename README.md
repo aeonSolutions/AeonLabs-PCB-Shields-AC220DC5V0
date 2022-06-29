@@ -46,9 +46,6 @@ ________________________________________________________________________________
 - [SS36 rectifier Diode](https://s.click.aliexpress.com/e/_DFlMjfv)
 - [MB10F 4 Diode Bridge Rectifier](https://s.click.aliexpress.com/e/_DcfTow3)
 - [HT2812H AC DC 5W charging](https://s.click.aliexpress.com/e/_Dk6dCGB)
-- [LED RGB x1]( https://s.click.aliexpress.com/e/_AccXHT)
-
-
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
