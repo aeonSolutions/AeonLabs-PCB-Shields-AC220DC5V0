@@ -7,6 +7,11 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/total)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 1.0
  
