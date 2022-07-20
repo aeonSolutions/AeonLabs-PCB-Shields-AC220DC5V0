@@ -7,6 +7,11 @@
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/total)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 1.0
  
@@ -38,17 +43,14 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
-- [Capacitor 2.2uF SMD 1206](https://s.click.aliexpress.com/e/_AVdmzr)
-- [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
+- [Capacitor 2.2uF SMD](https://s.click.aliexpress.com/e/_AVdmzr)
+- [Resistor SMD ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [EE10-A1 switching power supply transformer 220V to 5-12V](https://s.click.aliexpress.com/e/_DDHkwsf)
 - [4.7uF 400V Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DlkOyWT)
 - [390uF 6.3V Solid Electrolitic Capacitor](https://s.click.aliexpress.com/e/_DkZ4zmf)
 - [SS36 rectifier Diode](https://s.click.aliexpress.com/e/_DFlMjfv)
 - [MB10F 4 Diode Bridge Rectifier](https://s.click.aliexpress.com/e/_DcfTow3)
 - [HT2812H AC DC 5W charging](https://s.click.aliexpress.com/e/_Dk6dCGB)
-- [LED RGB x1]( https://s.click.aliexpress.com/e/_AccXHT)
-
-
 
 ## Firmware Download 
 one can use the PCB in the repository [AeonLabs-MCU-Burner-USB-to-UART-TTL](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL) to program the ESP32 WROOM32 MCU on this PCB.
