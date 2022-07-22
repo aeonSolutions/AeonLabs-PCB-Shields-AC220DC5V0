@@ -10,7 +10,7 @@
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/working_red.png)  revision 1.0 not working properly.
 
-![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/working_yellow.png)  revision 1.1 working at 3.4V DC.
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/working_yellow.png)  revision 1.1 working at 3.4V DC with selected component values.
 
 If you already tested this PCB send me a message. Thank you
 
