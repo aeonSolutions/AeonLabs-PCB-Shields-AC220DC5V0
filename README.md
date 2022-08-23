@@ -17,8 +17,6 @@ If you already tested this PCB send me a message. Thank you
   - bug track corrections
   - added overcurrent protection 
  
- 
-
 ## Download options
 Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
@@ -43,6 +41,7 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
 
+[![]()](https://youtu.be/YiTJY-2XoHM)
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
