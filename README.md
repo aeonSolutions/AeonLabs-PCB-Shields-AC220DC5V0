@@ -41,7 +41,7 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 ![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/pcb_front.png)
 
-[![]()](https://youtu.be/YiTJY-2XoHM)
+[![](https://github.com/aeonSolutions/AeonLabs-PCB-Shields-AC220DC5V0/blob/main/designs/ac%20dc%20converter%20youtube.png)](https://youtu.be/YiTJY-2XoHM)
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
